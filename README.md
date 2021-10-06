@@ -2,7 +2,7 @@
 
 Adding FontAwesome icons to the project
 
-**Version: 5.15.3**
+**Version: 5.17.0**
 
 # How to use this?
 
